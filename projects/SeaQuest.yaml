@@ -3,7 +3,7 @@ Description: Project entry corresponding to the SeaQuest VO. This is purely for 
   accounting purposes.
 FieldOfScience: Nuclear Physics
 ID: '489'
-Organization: SeaQuest
+Organization: Fermi National Accelerator Laboratory
 PIName: David Christian
 Sponsor:
   VirtualOrganization:
